@@ -1,5 +1,5 @@
 # case-stat
-Alternative way to check your USCIS Case Status
+Alternate way to check your USCIS Case Status
 
 
 # Phase 1
